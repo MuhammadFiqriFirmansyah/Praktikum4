@@ -90,7 +90,7 @@ public class Mahasiswa {
 ![Code Mahasiswa](Screenshot/Mahasiswa/Mahasiswa%203.png)
 
 ### Output
-![Output Mahasiswa](Screenshot/Mahasiswa/Mahasiswa%204.png)
+![Output Mahasiswa](Screenshot/Mahasiswa/Output%20Mahasiswa.png)
 
 ## Praktikum 4
 
